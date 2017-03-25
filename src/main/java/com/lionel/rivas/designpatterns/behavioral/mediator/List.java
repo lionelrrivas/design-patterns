@@ -3,7 +3,7 @@ package com.lionel.rivas.designpatterns.behavioral.mediator;
 import java.util.ArrayList;
 
 /**
- * This class is simulates a drop-down list on a user interface. It uses a {@link ScreenDirector} to set the value
+ * This class simulates a drop-down list on a user interface. It uses a {@link ScreenDirector} to set the value
  * of another UI component to the value of the selected item. 
  * 
  * @author lionelrivas
