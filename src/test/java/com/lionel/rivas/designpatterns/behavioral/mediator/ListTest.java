@@ -37,7 +37,7 @@ public class ListTest {
         
         classUnderTest.selectItem(0);
         
-        assertEquals("One", textField.getValue());
+        assertEquals("Seven", textField.getValue());
         
     }
 
